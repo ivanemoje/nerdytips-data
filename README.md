@@ -73,7 +73,7 @@ If you use or reference this repository, please credit [NerdyTips](https://nerdy
 
 ---
 
-### 📈 Keywords (for SEO)
+### 📈 Keywords
 *AI football predictions, sports analytics data, football prediction dataset, machine learning in football, open football data, xG analytics, AI match forecasts, predictive football models, football statistics repository, NerdyTips*
 
 ---
